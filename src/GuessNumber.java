@@ -20,6 +20,14 @@ import java.util.*;
 import java.util.concurrent.TimeUnit;
 
 public class GuessNumber {
+
+    /**
+   * This is the main method which macthes the Guess Number entered by user.
+   * @param args Number.
+   * @return Print Statement Wheather the Number Guesses is true or False.
+   * @exception IOException On input error.
+   * @see IOException
+   */
     
     public static void main(String[] args) throws InterruptedException {
         Scanner s = new Scanner(System.in);
@@ -27,8 +35,9 @@ public class GuessNumber {
          // Default Number Set is 5.
         int turns  = 5;
         final int NUMBER = r.nextInt(100);
-
         while(turns != -1) {
+
+
 
             if(turns == 0){
                 System.out.println("Oops You're out of turns !! Correct Answer is " + NUMBER);

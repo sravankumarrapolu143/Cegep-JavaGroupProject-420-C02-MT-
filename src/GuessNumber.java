@@ -4,15 +4,10 @@
 * requires an Guessing Input from user and match the random Number " .
 * <p>
 *
-* @author  Sahil, Kartik,Krinesh,Gurvinder
+* @author  Sahil, Kartik, Krinesh, Gurvinder
 * @version 1.0
 * @since   2020-03-10
 */
-
-
-
-
-
 
 
 
@@ -56,14 +51,14 @@ public class GuessNumber {
             }
             else if(gNumber > NUMBER){
                 System.out.println("-------------------------------------------------------------------");
-                System.out.println("Wrong Answer! Try going lower");
+                System.out.println("Wrong Answer! Try going lower from your current value");
                 turns -= 1;
                 TimeUnit.SECONDS.sleep(1);
                 
             }
             else if(gNumber < NUMBER){
                 System.out.println("-------------------------------------------------------------------");
-                System.out.println("Wrong Answer! Try going higher");
+                System.out.println("Wrong Answer! Try going higher from your current value");
                 turns -= 1;
                 TimeUnit.SECONDS.sleep(1);
                 

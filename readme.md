@@ -7,12 +7,14 @@ The fun and easy project “Guess the Number” is a short Java project that all
 4.	The game continues under the user guessing the number.
 5.  Limiting the number of attempts.
 6.  Adding more rounds.
-7.	Displaying score.
-8.	Giving points based on the number of attempts.
+7.	Displaying Rounds score.
 
 
-#Setup
+
+##Setup
 Building this project requires Java to be Installed in your Local Machine
+
+
 
 
 #Submited By 

@@ -11,12 +11,12 @@ The fun and easy project “Guess the Number” is a short Java project that all
 
 
 
-##Setup
+## Setup
 Building this project requires Java to be Installed in your Local Machine
 
 
 
 
-#Submited By 
+## Submited By 
 
 ```Sahil Girdhar(20931110), Kartik(2092377), Gurwinder(2092982), Krinesh(2094611), Sravan Kumar(2091889)```

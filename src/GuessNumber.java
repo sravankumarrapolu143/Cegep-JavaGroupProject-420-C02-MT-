@@ -4,7 +4,7 @@
 * requires an Guessing Input from user and match the random Number " .
 * <p>
 *
-* @author  Sahil, Kartik,Krinesh,Gurvinder
+* @author  Sahil, Kartik, Krinesh, Gurvinder
 * @version 1.0
 * @since   2020-03-10
 */
